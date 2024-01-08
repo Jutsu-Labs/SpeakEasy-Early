@@ -1,2 +1,2 @@
-# SpeakEasy-Early
-Early release builds for speakeasy
+# SpeakEasy-Staging
+Staging builds for speakeasy
