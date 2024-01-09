@@ -1,2 +1,2 @@
-# SpeakEasy-Staging
-Staging builds for speakeasy
+# SpeakEasy-Builds
+Builds for speakeasy
